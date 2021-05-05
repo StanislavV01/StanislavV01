@@ -1,5 +1,5 @@
 ### Hi!!! 👋
-![Header](https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif)
+![Header](https://www.edureka.co/blog/wp-content/uploads/2019/10/website-1-528x204.png)
 <!--
 **StanislavV01/StanislavV01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
