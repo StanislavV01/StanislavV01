@@ -19,7 +19,6 @@
 | ------------- |:------------------:| -----:|
 | CSS   | JQUERY    | Wordpress |
 | SASS     | DOM |   Laravell |
-| BEM | ReactJS         |    Opencard |
 
 
 ---
