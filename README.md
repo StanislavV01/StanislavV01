@@ -18,7 +18,8 @@
  |HTML      |    JS    |PHP |
 | ------------- |:------------------:| -----:|
 | CSS   | JQUERY    | Wordpress |
-| SASS     | DOM |   Laravell |
+| SASS     | DOM |
+           |React js|
 
 
 ---
