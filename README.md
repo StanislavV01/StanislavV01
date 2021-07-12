@@ -19,11 +19,4 @@
 
 ---
  
- |HTML      |    JS    |PHP |
-| ------------- |:------------------:| -----:|
-| CSS   | JQUERY    | Wordpress |
-| SASS     | DOM |
-           |React js|
-
-
 ---
