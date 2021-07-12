@@ -12,7 +12,7 @@
 ![React js](https://img.shields.io/badge/-React-454443?style=for-the-badge&logo=React)
 
 ### Secondary:
-![JQuery](https://img.shields.io/badge/-JQuery-090909??style=for-the-badge&logo=html)
+![JQuery](https://img.shields.io/badge/-JQuery-090909??style=for-the-badge&logo=jQuery)
 ![Sass](https://img.shields.io/badge/-Sass-454443?style=for-the-badge&logo=sass)
 ![BEM](https://img.shields.io/badge/-bem-454443?style=for-the-badge&logo=BEM)
 ![Figma](https://img.shields.io/badge/-figma-454443?style=for-the-badge&logo=figma)  
