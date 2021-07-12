@@ -1,7 +1,9 @@
 ### Hi!!! 👋
 ![Header](https://www.edureka.co/blog/wp-content/uploads/2019/10/website-1-528x204.png)
 
-## My name is Stanislav, i'm  junior Webdev
+## My name is Stanislav
+
+## I'm  junior Webdeveloper.
   ### SKILLS:
   
  ### Primary: 
@@ -18,5 +20,10 @@
 ![Figma](https://img.shields.io/badge/-figma-454443?style=for-the-badge&logo=figma)  
 
 ---
+ ## Location :
  
+* Kiev, Ukraine
+* You can see my projects under this block in pinned repositories, but there are more of them
+
+
 ---
