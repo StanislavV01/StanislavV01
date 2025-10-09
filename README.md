@@ -1,7 +1,7 @@
 ## 👋 Hi there!
 
 ### I'm **Stanislav**, a Frontend & Full-Stack Developer based in **Warsaw, Poland** 🇵🇱  
-I specialize in building responsive web applications with modern technologies and a focus on clean, maintainable code.
+I specialize in building responsive web and mobile applications with modern technologies and a focus on clean, maintainable code.
 
 ---
 
@@ -13,8 +13,9 @@ I specialize in building responsive web applications with modern technologies an
 ![JavaScript](https://img.shields.io/badge/-JavaScript-454443?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-454443?style=for-the-badge&logo=typescript)
 
-#### ⚛️ **Frontend Frameworks & Libraries**
+#### ⚛️ **Frontend & Mobile Frameworks**
 ![React](https://img.shields.io/badge/-React-454443?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-454443?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-454443?style=for-the-badge&logo=redux)
 ![Next.js](https://img.shields.io/badge/-Next.js-454443?style=for-the-badge&logo=nextdotjs)
 
