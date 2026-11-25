@@ -37,13 +37,17 @@ I ship products end to end: the model integration, the backend that keeps it rel
 |---|---|---|---|
 | 🤖 | **DeFi Agent** | AI agent that reads your Aave positions, explains risk in plain language and prepares transactions for you to sign | TypeScript · LLM tool calling · viem · Next.js |
 | 📚 | **Docs RAG** | Ask questions over any documentation, get answers with citations to the exact source | Next.js · embeddings · pgvector · streaming |
-| 🔌 | **MCP server** | Gives coding agents live access to on-chain data | TypeScript · Model Context Protocol |
 
 <sub>⭐ Star or watch to follow along.</sub>
 
 ---
 
 ## 🏆 Shipped
+
+### [🔌 defi-mcp](https://github.com/StanislavV01/defi-mcp) &nbsp;![new](https://img.shields.io/badge/new-A855F7?style=flat-square) ![CI](https://github.com/StanislavV01/defi-mcp/actions/workflows/ci.yml/badge.svg)
+MCP server that gives Claude, Cursor or any AI agent read-only eyes on DeFi: Aave V3 positions, markets across 5 chains, and **what-if health-factor simulation** before anyone signs a transaction. Typed tools, multicall reads, unit-tested risk math.
+
+`MCP` `TypeScript` `viem` `zod` `AI agents`
 
 <table>
 <tr>
