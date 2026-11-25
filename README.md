@@ -35,7 +35,7 @@ I ship products end to end: the model integration, the backend that keeps it rel
 
 | | Project | What it does | Stack |
 |---|---|---|---|
-| 🤖 | **DeFi Agent** | AI agent that reads your Aave positions, explains risk in plain language and prepares transactions for you to sign | TypeScript · LLM tool calling · viem · Next.js |
+| 🤖 | [**DeFi Agent**](https://github.com/StanislavV01/defi-agent) ![MVP](https://img.shields.io/badge/MVP-A855F7?style=flat-square) | AI agent that reads your Aave positions, explains risk in plain language and prepares transactions for you to sign | TypeScript · LLM tool calling · viem · Next.js |
 | 📚 | **Docs RAG** | Ask questions over any documentation, get answers with citations to the exact source | Next.js · embeddings · pgvector · streaming |
 
 <sub>⭐ Star or watch to follow along.</sub>
