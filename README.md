@@ -21,7 +21,7 @@ const stanislav = {
   role: "AI Engineer · Full-stack TypeScript",
   location: "Warsaw, Poland 🇵🇱",
   building: ["LLM apps", "AI agents", "RAG pipelines", "MCP servers"],
-  background: ["React", "React Native", "Next.js", "Node.js", "Web3 / DeFi"],
+  background: ["React", "React Native", "Next.js", "Node.js", "Rust", "Web3 / DeFi", "Solana"],
   superpower: "taking AI features from demo to production",
   openTo: "AI / full-stack AI roles — remote EU or hybrid Warsaw",
 };
@@ -62,7 +62,12 @@ Deterministic quality gates for coding agents — a **Claude Code plugin** and a
 
 ## 🏆 Shipped
 
-### [🔌 defi-mcp](https://github.com/StanislavV01/defi-mcp) &nbsp;![new](https://img.shields.io/badge/new-A855F7?style=flat-square) ![CI](https://github.com/StanislavV01/defi-mcp/actions/workflows/ci.yml/badge.svg)
+### [📉 solana-perps-mcp](https://github.com/StanislavV01/solana-perps-mcp) &nbsp;![new](https://img.shields.io/badge/new-A855F7?style=flat-square) ![CI](https://github.com/StanislavV01/solana-perps-mcp/actions/workflows/ci.yml/badge.svg)
+Rust MCP server that lets AI agents see **Drift perps on Solana** the way the liquidator does: margin, health, **liquidation prices** and **what-if / stress tests** before a trade. The margin math is a port of Drift's on-chain code and matches its golden tests to the unit. Account layouts are generated from the IDL and tested on real mainnet accounts. Zero dependencies.
+
+`Rust` `Solana` `Drift` `MCP` `risk engine` `AI agents`
+
+### [🔌 defi-mcp](https://github.com/StanislavV01/defi-mcp) &nbsp;![CI](https://github.com/StanislavV01/defi-mcp/actions/workflows/ci.yml/badge.svg)
 MCP server that gives Claude, Cursor or any AI agent read-only eyes on DeFi: Aave V3 positions, markets across 5 chains, and **what-if health-factor simulation** before anyone signs a transaction. Typed tools, multicall reads, unit-tested risk math.
 
 `MCP` `TypeScript` `viem` `zod` `AI agents`
