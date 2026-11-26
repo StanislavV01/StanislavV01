@@ -31,6 +31,24 @@ I ship products end to end: the model integration, the backend that keeps it rel
 
 ---
 
+## ⚓ Flagship: [seaworthy](https://github.com/StanislavV01/seaworthy)
+
+> **Your coding agent says "done". seaworthy checks.**
+
+Deterministic quality gates for coding agents — a **Claude Code plugin** and an **Orca extension**. Agents end their turn with "done!" while tests fail, CI is red or a failing test was quietly skipped. seaworthy turns "please run the tests" from a prompt into a gate:
+
+- ✅ your project's own checks must pass **for the exact code** being committed and pushed
+- 🛡 diff-guard blocks deleted/skipped tests, `@ts-ignore`, loosened configs — until *you* approve
+- 👀 an independent reviewer agent, pinned to the same code, must approve
+- 🔁 CI watched until green, failures excerpted with secrets redacted, retries capped
+- 🔒 enforced by hooks + git hooks + signed state — **81 red-team bypass attempts blocked**, incl. 24 found by an independent review
+
+[![CI](https://github.com/StanislavV01/seaworthy/actions/workflows/ci.yml/badge.svg)](https://github.com/StanislavV01/seaworthy) ![tests](https://img.shields.io/badge/tests-285_passing-3fb950?style=flat-square) ![deps](https://img.shields.io/badge/runtime_deps-0-blue?style=flat-square)
+
+`Claude Code` `Orca` `hooks` `agent safety` `JS/TS · C++ · Python · Go`
+
+---
+
 ## 🚧 Building now
 
 | | Project | What it does | Stack |
