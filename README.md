@@ -62,7 +62,12 @@ Deterministic quality gates for coding agents — a **Claude Code plugin** and a
 
 ## 🏆 Shipped
 
-### [📉 solana-perps-mcp](https://github.com/StanislavV01/solana-perps-mcp) &nbsp;![new](https://img.shields.io/badge/new-A855F7?style=flat-square) ![CI](https://github.com/StanislavV01/solana-perps-mcp/actions/workflows/ci.yml/badge.svg)
+### [📄 pdfctx](https://github.com/StanislavV01/pdfctx) &nbsp;![new](https://img.shields.io/badge/new-A855F7?style=flat-square) ![CI](https://github.com/StanislavV01/pdfctx/actions/workflows/ci.yml/badge.svg)
+Local-first PDF retrieval for AI agents, over **MCP** and a **FastAPI** REST API. It parses layout (columns, headings, borderless tables) and returns cited blocks or single table rows with page and bounding box. Measured on **FinanceBench**: recall@10 0.567 vs 0.507 for page-level BM25 with **10× fewer tokens**. Every change is kept or reverted by the benchmark. Next.js demo highlights each cited block on the page.
+
+`Python` `RAG` `MCP` `FastAPI` `SQLite FTS5` `Next.js` `benchmarks`
+
+### [📉 solana-perps-mcp](https://github.com/StanislavV01/solana-perps-mcp) &nbsp;![CI](https://github.com/StanislavV01/solana-perps-mcp/actions/workflows/ci.yml/badge.svg)
 Rust MCP server that lets AI agents see **Drift perps on Solana** the way the liquidator does: margin, health, **liquidation prices** and **what-if / stress tests** before a trade. The margin math is a port of Drift's on-chain code and matches its golden tests to the unit. Account layouts are generated from the IDL and tested on real mainnet accounts. Zero dependencies.
 
 `Rust` `Solana` `Drift` `MCP` `risk engine` `AI agents`
